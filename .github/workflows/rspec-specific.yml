@@ -1,4 +1,4 @@
-name: RSpec
+name: RSpec Specific
 
 on:
   workflow_dispatch:
